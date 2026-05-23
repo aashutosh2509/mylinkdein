@@ -1,0 +1,34 @@
+[
+    {
+        "id": "default",
+        "name": "AASHUTOSH KHARE",
+        "proxy": null,
+        "config": {
+            "note_template": "Hi {FirstName}, lets connect!",
+            "send_with_note": false,
+            "delay_min": 30,
+            "delay_max": 70,
+            "daily_limit": 25,
+            "weekly_limit": 150
+        },
+        "status": "Idle",
+        "current_action": "Idle",
+        "progress_percent": 0
+    },
+    {
+        "id": "profile_2_9950",
+        "name": "NIKITA HR",
+        "proxy": null,
+        "config": {
+            "note_template": "Hi {FirstName}, let's connect!",
+            "send_with_note": false,
+            "delay_min": 30,
+            "delay_max": 70,
+            "daily_limit": 25,
+            "weekly_limit": 150
+        },
+        "status": "Idle",
+        "current_action": "Idle",
+        "progress_percent": 0
+    }
+]
